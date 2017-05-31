@@ -1,19 +1,4 @@
----
-title: 基于Vuejs、vue-router、iview的管理后台
-date: 2017-05-28 15:23:41
-categories:
-    - 前端
-    - JavaScript
-    - Vuejs
-tags:
-    - JavaScript
-    - Vuejs
-    - iView
-    - Vue-router
----
-上一篇分享的是使用angularjs及materialdesign的管理后台前端页面的实现。因为感觉input的输入框实在是太丑了，并且用户端的页面我早已开发完毕，就等着后端给接口了，所以就萌生出了使用心中一直念念不忘的Vuejs来实现一版管理后台。
-<!-- more -->
-这个使用了Vue-cli来构建vue架构，使用vue-router来搭建路由，使用iview来作为UI框架。
+本项目使用了Vue-cli来构建vue架构，使用vue-router来搭建路由，使用iview来作为UI框架。
 
 ## 项目构建
 1. 安装nodejs
